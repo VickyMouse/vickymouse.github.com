@@ -127,7 +127,7 @@
     <link href="http://vickymouse.com/2017/03/08/DIY%20%E9%9D%A2%E8%86%9C/"/>
     <id>http://vickymouse.com/2017/03/08/DIY 面膜/</id>
     <published>2017-03-08T10:10:55.000Z</published>
-    <updated>2017-03-10T07:25:54.000Z</updated>
+    <updated>2017-03-10T08:08:53.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="1-啤酒酵母粉保湿面膜"><a href="#1-啤酒酵母粉保湿面膜" class="headerlink" title="1. 啤酒酵母粉保湿面膜"></a>1. 啤酒酵母粉保湿面膜</h4><ul>
 <li><strong>材料：</strong>100ml原味酸奶，一小勺啤酒酵母粉，一小匙蜂蜜</li>
@@ -443,8 +443,14 @@
     
     </summary>
     
+      <category term="Beauty" scheme="http://vickymouse.com/categories/Beauty/"/>
     
-      <category term="Beauty" scheme="http://vickymouse.com/tags/Beauty/"/>
+    
+      <category term="面膜" scheme="http://vickymouse.com/tags/%E9%9D%A2%E8%86%9C/"/>
+    
+      <category term="Skin Care" scheme="http://vickymouse.com/tags/Skin-Care/"/>
+    
+      <category term="DIY" scheme="http://vickymouse.com/tags/DIY/"/>
     
   </entry>
   
